@@ -40,7 +40,7 @@ Tabela dos seletores
 - Realizar o upload do código [uno-atmega-analogic-read.ino](uno-atmega-analogic-read/uno-atmega-analogic-read.ino) no Arduino Uno
 - Ajustar no arquivo [uno-esp-analogic-read.ino](uno-esp-analogic-read/uno-esp-analogic-read.ino) o seu wifi na linha 9 e 10 e o endereço do MQTT server na linha 21
 - Ajustar os conectores conforme tabela acima, para se conectar no ESP8266
-- Realizar upload do código
+- Realizar upload do código [uno-esp-analogic-read.ino](uno-esp-analogic-read/uno-esp-analogic-read.ino) no ESP8266
 - Ajustar os conectores para habilitar o módulo ATmega e ESP8622
 
 ## Links Úteis
